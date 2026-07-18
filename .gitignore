@@ -1,0 +1,4 @@
+.modules/
+dist/
+__pycache__/
+*.pyc
